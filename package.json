@@ -1,0 +1,1 @@
+{"description":"Fleet template: Node.js library / service","engines":{"node":">=20"},"license":"MIT","main":"src/index.js","name":"template-node-lib","scripts":{"start":"node src/index.js","test":"node --test test/"},"type":"module","version":"0.1.0"}
